@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name XT60_YELLOW)(type Legacy)(uri ${ESP32}/XT60_YELLOW.lib)(options "")(descr ""))
+  (lib (name ESP32-WROOM-32E__16MB_)(type Legacy)(uri ${ESP32}/ESP32-WROOM-32E__16MB_.lib)(options "")(descr ""))
+  (lib (name 1051330001)(type Legacy)(uri ${ESP32}/1051330001.lib)(options "")(descr ""))
+  (lib (name 105017-1001)(type Legacy)(uri ${ESP32}/105017-1001.lib)(options "")(descr ""))
+  (lib (name 434111043826)(type Legacy)(uri ${ESP32}/434111043826.lib)(options "")(descr ""))
+)
